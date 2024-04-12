@@ -1,0 +1,23 @@
+* {
+  margin: 10px;
+  padding: 5px;
+}
+
+header {
+  background-color: cadetblue;
+  color: darkblue;
+  text-align: center;
+}
+
+main {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+footer {
+  background-color: darkorange;
+  display: flex;
+}
